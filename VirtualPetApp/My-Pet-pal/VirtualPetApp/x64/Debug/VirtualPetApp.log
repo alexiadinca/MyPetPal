@@ -1,0 +1,3 @@
+﻿  VirtualPetApp.cpp
+C:\Users\Alexia\Desktop\Facultate\VirtualPetApp\My-Pet-pal\VirtualPetApp\VirtualPetApp.cpp(118,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VirtualPetApp.vcxproj -> C:\Users\Alexia\Desktop\Facultate\VirtualPetApp\My-Pet-pal\x64\Debug\VirtualPetApp.exe
